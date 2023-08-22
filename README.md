@@ -1,2 +1,1 @@
-nietschoolweb.netlify.app
-
+https://nietschoolweb.netlify.app/
