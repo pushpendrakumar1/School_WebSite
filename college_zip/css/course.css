@@ -1,0 +1,95 @@
+/*
+Template Name: College
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+/*********************course****************/
+.course_dt1l3il p span{
+width:40px;
+height:40px;
+line-height:40px; 
+ }
+.course_dt1l4 .social-circle li a{
+background:#f5e2de; 
+ }
+.course_dt1l4 .social-circle li a i{
+color:#333; 
+ }
+.course_dt1l2ir{
+padding-top:15px; 
+ }
+/*********************course_end****************/
+
+
+
+@media screen and (max-width : 767px){
+.course_pg1l{
+text-align:center;
+margin-bottom:15px; 
+ }
+.course_dt1l2il img{
+ float:none!important;
+ }
+.course_dt1l2il{
+text-align:center;
+ }
+.course_dt1l2ir{
+margin-top:10px; 
+ }
+.course_dt1l3  h2{
+text-align:center; 
+ }
+.course_dt1l3  h4{
+text-align:center; 
+ }
+.course_dt1l4  h4{
+text-align:center; 
+ }
+.course_dt1l4  h3{
+text-align:center; 
+ }
+.course_dt1r{
+margin-top:20px; 
+ }
+.course_dt1r1 h5{
+text-align:center; 
+ }
+.course_dt1l1 img{
+height:auto; 
+ }
+.course_dt1l4 .social-network{
+text-align:center;  
+ }
+ }
+
+@media (min-width:576px) and (max-width:767px) {
+
+ }
+@media (min-width:768px) and (max-width:991px) {
+.course_dt1l1 img{
+height:auto; 
+ }
+.course_dt1l2ir h5{
+font-size:12px; 
+ }
+.course_dt1r1  h5{
+font-size:16px; 
+ }
+.course_dt1r1  h6{
+font-size:12px; 
+ }
+.course_dt1r1  h5 span{
+font-size:14px!important; 
+ }
+ }
+
+@media (min-width:992px) and (max-width:1200px) {
+
+ }
+@media (min-width:1201px) and (max-width:1250px) {
+
+ }
+
+

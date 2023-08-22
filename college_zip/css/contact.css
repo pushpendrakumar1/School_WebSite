@@ -1,0 +1,56 @@
+/*
+Template Name: College
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+/*********************contact****************/
+.contact_1i span{
+width:110px;
+height:110px;
+line-height:110px; 
+ }
+.contact_1i:hover{
+background:#fff7ef;
+transition: 0.3s; 
+ }
+.contact_1io{
+background:#fff7ef; 
+ }
+/*********************contact_end****************/
+
+
+
+@media screen and (max-width : 767px){
+.contact_1i {
+margin-top:10px;
+margin-bottom:10px; 
+ }
+.contact_4i{
+margin-left:0;
+margin-right:0; 
+ }
+.contact_4il{
+margin-top:10px;
+margin-bottom:10px; 
+ }
+ }
+
+@media (min-width:576px) and (max-width:767px) {
+
+ }
+@media (min-width:768px) and (max-width:991px) {
+.contact_1i   h4{
+font-size:18px; 
+ }
+ }
+
+@media (min-width:992px) and (max-width:1200px) {
+
+ }
+@media (min-width:1201px) and (max-width:1250px) {
+
+ }
+
+

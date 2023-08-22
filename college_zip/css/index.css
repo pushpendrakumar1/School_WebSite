@@ -1,0 +1,228 @@
+/*
+Template Name: College
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+/*********************center_home****************/
+.carousel-caption{
+text-align:left;
+background:#00000087;
+padding:100px 140px 0px 140px;
+top:0;
+left:0;
+width:100%;
+height:100%;
+color:#fff;
+ }
+.center_home img{
+min-height:700px;
+ }
+.spec_1i {
+background:#125875e0;
+transition: 0.3s;
+ }
+.spec_1i:hover {
+background:#ff7350e0;
+ }
+.spec_1io {
+background:#ff7350;
+transition: 0.3s; 
+ }
+/*********************center_home_end****************/
+
+/*********************about_h****************/
+.about_h1rill span{
+width:50px;
+height:50px;
+line-height:50px; 
+ }
+.about_h1lil img{
+border:5px solid #ff7350;
+ }
+.about_h1lilo img{
+border:5px solid #125875;
+ }
+.about_h1lilo{
+padding-top:180px;
+ }
+/*********************about_h_end****************/
+
+
+/*********************faq****************/
+#ad {
+background-image: url(../img/19.jpg);
+background-position: center;
+}
+
+#learn {
+background-image: url(../img/1.jpg);
+background-position: center;
+}
+.learn_1r{
+border-radius:0px 10px 10px 0px;
+min-height:410px; 
+ }
+/*********************faq_end****************/
+
+/*********************testim****************/
+#subs {
+background-image: url(../img/1.jpg);
+background-position: center;
+}
+/*********************testim_end****************/
+
+
+
+@media screen and (max-width : 767px){
+.main_2 {
+position:static!important; 
+ }
+.carousel-caption{
+padding:15px;
+ }
+.center_home img{
+min-height:350px;
+ }
+.carousel-caption h5{
+letter-spacing:1px;
+font-size:16px; 
+ }
+.carousel-caption br{
+display:none; 
+ }
+.carousel-caption p{
+font-size:13px;
+ }
+.h_line:after {
+margin-left: 2%;
+}
+.carousel-caption .button {
+padding: 0.8rem 0.5rem 0.8rem 0.5rem;
+}
+.carousel-caption .button_1 {
+padding: 0.8rem 0.5rem 0.8rem 0.5rem;
+}
+.spec_1i {
+margin-top:10px;
+margin-bottom:10px;
+text-align:center; 
+ }
+.spec_1ir{
+margin-top:10px; 
+ }
+.spec_1ir p{
+text-align:left;
+ }
+.about_h1lilo {
+padding-top:20px;
+}
+.about_h1r{
+margin-top:15px;
+text-align:center; 
+ }
+.about_h1r p{
+text-align:left;
+ }
+.about_h1r br{
+display:none;
+ }
+.about_h1rilr{
+margin-top:10px; 
+ }
+.ad_1l br{
+display:none; 
+ }
+.ad_1l h1{
+text-align:center; 
+ }
+.ad_1r{
+text-align:center!important; 
+padding-top:15px!important; 
+ }
+.faq_1r{
+margin-top:15px;
+text-align:center; 
+ }
+.learn_1r{
+padding:15px!important;
+min-height:auto;
+text-align:center; 
+ }
+.learn_1r p{
+text-align:left; 
+ }
+.subs_1l h1{
+text-align:center;  
+ }
+.book_1l{
+margin-top:10px;
+text-align:center; 
+ }
+.book_1l p{
+text-align:left;
+ }
+ }
+
+@media (min-width:576px) and (max-width:767px) {
+.carousel-caption{
+padding:20px;
+bottom:0;
+ }
+.carousel-caption p{
+font-size:16px;
+ }
+.about_h1lilo {
+padding-top:0;
+}
+ }
+@media (min-width:768px) and (max-width:991px) {
+.carousel-caption{
+padding:50px 140px 0px 140px;
+ }
+.carousel-caption br{
+display:none;
+ }
+.spec_1i {
+padding:10px!important; 
+ }
+.spec_1il span{
+font-size:20px!important; 
+ }
+.about_h1r br{
+display:none; 
+ }
+.about_h1rill span {
+width:35px;
+height:35px;
+line-height:35px;
+font-size:16px!important;
+}
+.ad_1l br{
+display:none; 
+ }
+.learn_1l img{
+min-height:410px; 
+ }
+.learn_1r {
+padding:25px!important; 
+ }
+.book_1r img{
+min-height:370px; 
+ }
+ }
+
+@media (min-width:992px) and (max-width:1200px) {
+.learn_1l img{
+min-height:410px; 
+ }
+.book_1r img{
+min-height:370px; 
+ }
+ }
+@media (min-width:1201px) and (max-width:1250px) {
+
+ }
+
+
